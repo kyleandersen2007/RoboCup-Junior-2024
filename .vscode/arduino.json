@@ -5,4 +5,5 @@
     "sketch": "test\\test.ino",
     "output": "../build",
     "programmer": "arduinoisp"
+    
 }
