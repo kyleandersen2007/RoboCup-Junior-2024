@@ -1,6 +1,8 @@
 {
-    "port": "COM3",
+    "port": "COM21",
     "configuration": "cpu=atmega2560",
     "board": "arduino:avr:mega",
-    "sketch": "test\\test.ino"
+    "sketch": "test\\test.ino",
+    "output": "../build",
+    "programmer": "arduinoisp"
 }
