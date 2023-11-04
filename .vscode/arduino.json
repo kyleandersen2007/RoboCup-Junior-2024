@@ -1,9 +1,0 @@
-{
-    "port": "COM24",
-    "configuration": "cpu=atmega2560",
-    "board": "arduino:avr:mega",
-    "sketch": "test\\test.ino",
-    "output": "../build",
-    "programmer": "arduinoisp"
-    
-}
