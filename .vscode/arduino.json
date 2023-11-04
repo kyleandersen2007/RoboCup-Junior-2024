@@ -1,5 +1,5 @@
 {
-    "port": "COM21",
+    "port": "COM22",
     "configuration": "cpu=atmega2560",
     "board": "arduino:avr:mega",
     "sketch": "test\\test.ino",
