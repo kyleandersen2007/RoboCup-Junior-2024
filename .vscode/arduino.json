@@ -1,0 +1,9 @@
+{
+    "port": "COM22",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "sketch": "Distance.ino",
+    "output": "../build",
+    "programmer": "arduinoisp"
+    
+}
